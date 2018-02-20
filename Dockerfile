@@ -1,2 +1,6 @@
 # This is my Dockerfile
-# Check TC trigger 
+FROM centos
+
+CMD ["echo", "Hello Soluto ---"]
+
+
